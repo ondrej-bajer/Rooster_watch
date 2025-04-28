@@ -56,7 +56,7 @@ class ClockApp:
         elif minute in [9, 24, 39, 54] and second == 40 and self.current_color != "#4B0082":
             self.current_color = "#4B0082"
             self.label.config(bg="#4B0082")
-        elif minute in [0, 11, 26, 41, 56] and second == 0 and self.current_color != "green":
+        elif minute in [10, 25, 40, 55] and second == 0 and self.current_color != "green":
             self.current_color = "green"
             self.label.config(bg="green")
 
