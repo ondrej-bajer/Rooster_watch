@@ -27,3 +27,8 @@ This is one of the very first applications I have developed. It is not a large o
 
 ```bash
 git clone https://github.com/ondrej-bajer/Rooster_watch.git
+
+## 📸 Screenshots
+![Dashboard](screenshots/green.png)
+![Dashboard](screenshots/red.png)
+![Dashboard](screenshots/purple.png)
