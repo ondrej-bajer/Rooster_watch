@@ -20,6 +20,11 @@ This is one of the very first applications I have developed. It is not a large o
 - Minimalistic and user-friendly window borders and layout.
 - Lightweight and easy to run, requiring only standard Python libraries.
 
+## 📸 Screenshots
+![Green](./screenshots/green.png)
+![Red](./screenshots/red.png)
+![Purple](./screenshots/purple.png)
+
 ## Installation
 
 1. Make sure you have **Python 3** installed on your system.
@@ -27,8 +32,3 @@ This is one of the very first applications I have developed. It is not a large o
 
 ```bash
 git clone https://github.com/ondrej-bajer/Rooster_watch.git
-
-## 📸 Screenshots
-![Green](./screenshots/green.png)
-![Red](./screenshots/red.png)
-![Purple](./screenshots/purple.png)
